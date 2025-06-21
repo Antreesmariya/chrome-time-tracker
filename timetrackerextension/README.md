@@ -13,8 +13,23 @@ A Chrome Extension that tracks the time spent on different websites and classifi
 - Chrome Extension APIs
 - VS Code
 
+<<<<<<< HEAD
 ## 📷 Screenshots
 *Add screenshots here showing the popup and tracking UI.*
+=======
+## 🚀 Live Output
+
+Here are a few screenshots showing the extension in action:
+
+### ✅ Extension Installed
+![Extension Loaded](screenshots/extension-loaded.png)
+
+### 📊 Popup Showing Time Tracking
+![Popup](screenshots/popup-tracking.png)
+
+### 🧹 After Clicking "Clear Data"
+![Clear Data](screenshots/cleared.png)
+>>>>>>> 4e01b9d (Merge remoe changes)
 
 ## 🚀 How to Use
 1. Clone this repo
